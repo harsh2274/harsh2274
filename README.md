@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harsh2274
-- 👀 I’m a as a Data Scientist
+- 👀 I’m work as a Data Scientist at Atsuya Technologies
 - 🌱 I’m currently learning how to make LLM bots
 - 💞️ I’m looking to work on some interesting projects 
 - 📫 Reach me at harsh.agrawal2274@gmail.com
