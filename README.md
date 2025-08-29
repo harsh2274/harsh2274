@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harsh2274
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning how to make Deep Learning Models
-- 💞️ I’m looking to collaborate on woring with some industry for this Summer
+- 👀 I’m a as a Data Scientist
+- 🌱 I’m currently learning how to make LLM bots
+- 💞️ I’m looking to work on some interesting projects 
 - 📫 Reach me at harsh.agrawal2274@gmail.com
 
 <!---
