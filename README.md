@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @harsh2274
-- 👀 I’m work as a Data Scientist at Atsuya Technologies
+- 👋 Hi, I’m @harsh2274 
+- 👀 I’m a master's student at Cornell Tech University
 - 🌱 I’m currently learning how to make LLM bots
 - 💞️ I’m looking to work on some interesting projects 
 - 📫 Reach me at harsh.agrawal2274@gmail.com
